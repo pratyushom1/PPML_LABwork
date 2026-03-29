@@ -1,9 +1,0 @@
-fruits=[
-    "apple",
-    "banana",
-    "orange",
-    "cherry",
-    "mango",
-    "pineapple"
-]
-print(fruits)
